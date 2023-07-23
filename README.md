@@ -16,4 +16,4 @@ This program can help you automatically pull and refresh the content in your loc
 
 ## Start Setting
 
-* [Please see this file]()
+* [Please see this file](https://github.com/Pacific-Feng/My-Notes/blob/main/hackmd_file/technical/%E8%87%AA%E5%8B%95%E5%9C%A8%E9%96%8B%E6%A9%9F%E6%99%82%E9%80%B2%E8%A1%8C%E6%9C%AC%E5%9C%B0Github%E8%B3%87%E6%96%99%E5%A4%BE%E7%9A%84%E6%9B%B4%E6%96%B0%20(Windows).md)
