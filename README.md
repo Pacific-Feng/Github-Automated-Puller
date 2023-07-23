@@ -5,10 +5,14 @@ This program can help you automatically pull and refresh the content in your loc
 
 ### Step1 、 Download the .bat and .sh file
 
+<br>
+
 ### Step2 、 Put the two files in you local dictionary
 
 * This dictionary may contain many different respos
 * The script can automatically iterate all your repos
+
+<br><br>
 
 ## Start Setting
 
